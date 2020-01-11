@@ -13,7 +13,7 @@ function plusDivs(n) {
 
 function showDivs(n) {
   
-  //variable x = fotos, variable y = texto (Investigar como casarloss)
+  //variable x = fotos, variable y = texto (Esto es para la prueba, con imagenes y texto hardcodeado, ver como sacarlo de un query)
   var x = document.getElementsByClassName("SlideShow");
   var y = document.getElementById("Texto");
   if (n > x.length) {slideIndex = 1}
