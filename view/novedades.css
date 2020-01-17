@@ -1,13 +1,23 @@
 body {
 	background-color: lightgray
 }
+.header {
+	background-color: #161616
+
+}
+
+
+.nombresis{
+
+	color: white;
+}
 
 .fondo {
 	background-color: white 
 }
 
 .titulo {
-
+	padding-left: 15%
 }
 
 .subtitulo {
@@ -15,17 +25,26 @@ body {
 }
 
 .testo {
-	
+	padding-left: 5%;
 	color: #161616;
 	
 }
 
 .SlideShow {
-
+	padding-left: 3%;
 	width: 100%;
 }
 
 .izq {
 
 	width: 33%
+}
+
+.dere{
+
+	width: 60%;
+	padding-left: 40%;
+}
+.center {
+	padding-left: 46%;
 }
