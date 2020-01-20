@@ -1,5 +1,6 @@
 body {
-	background-color: lightgray
+	background-color: lightgray;
+	height: 100%
 }
 .header {
 	background-color: #161616
@@ -17,7 +18,8 @@ body {
 }
 
 .titulo {
-	padding-left: 15%
+	text-align: center;
+
 }
 
 .subtitulo {
@@ -32,12 +34,14 @@ body {
 
 .SlideShow {
 	padding-left: 3%;
-	width: 100%;
+	width: 94%;
 }
 
 .izq {
 
-	width: 33%
+	background-color: white;
+	width: 33%;	
+	min-height: 100%
 }
 
 .dere{
@@ -46,5 +50,5 @@ body {
 	padding-left: 40%;
 }
 .center {
-	padding-left: 46%;
+	text-align: center;
 }
